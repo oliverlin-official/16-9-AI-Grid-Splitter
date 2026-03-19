@@ -1,0 +1,5 @@
+{
+  "name": "16:9 AI Grid Splitter",
+  "description": "Slice 3x3 AI-generated image grids into 9 individual 16:9 images, removing borders and exporting as a ZIP archive.",
+  "requestFramePermissions": []
+}
